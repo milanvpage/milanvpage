@@ -1,5 +1,5 @@
-[![Header](https://raw.githubusercontent.com/MilanPage/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
+<!-- [![Header](https://raw.githubusercontent.com/MilanPage/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+ -->
 - 👋 A Little bit about me:
 - 🌲 Originally from Portland Oregon
 - 🏡 Living in Spokane Washington
@@ -12,7 +12,7 @@
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]:  https://raw.githubusercontent.com/MilanPage/MilanPage/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-[1]: https://twitter.com/PageMilan
+<!-- [1]: https://twitter.com/PageMilan -->
 [2]: https://www.linkedin.com/in/milan-page-527a39227/
 
 <!---
