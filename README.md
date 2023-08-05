@@ -5,7 +5,6 @@
 - 🏡 Living in Spokane Washington
 - 💃🏽 I'm a Professional Dancer, trained in all styles from Ballet to Hip-Hop
 - 📚 Flatiron School Graduate
-- 👩🏽‍💻 Currently Building Email/Text Message Bot Chrome extension
 - 🤟🏼 I am interested in expanding my coding skills by working with experienced Professionals
 - 💞️ Excited to Collaborate on more group Projects!!
 - 📫 How to reach me: 
